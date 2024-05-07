@@ -12,7 +12,7 @@ Press the spacebar to make the dog jump over obstacles.
 Simple and intuitive gameplay.
 Cute dog character.
 Engaging game environment.
-Fun for all ages
+Fun for all ages.
 
 ## Getting Started
 
